@@ -48,24 +48,7 @@
 			<version>2.6</version>
 		</dependency>
 		
-		<dependency>
-			<groupId>com.emc.nrp</groupId>
-			<artifactId>common-service</artifactId>
-			<version>1.0.0-RELEASE</version>
-		</dependency>
-		<dependency>
-			<groupId>com.emc.nrp</groupId>
-			<artifactId>common-model</artifactId>
-			<version>1.0.0-RELEASE</version>
-		</dependency>
-		<dependency>
-			<groupId>com.emc.nrp</groupId>
-			<artifactId>common-util</artifactId>
-			<version>1.0.0-RELEASE</version>
-		</dependency>
-
 	</dependencies>
-
 
 	<build>
 		<plugins>
